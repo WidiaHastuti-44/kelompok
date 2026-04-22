@@ -1,7 +1,12 @@
 #Nama: widia hastuti(TI22250043)
+
 #Nama: Shofia Aziz Muharromi(TI22250037)
+
 #Nama: nurul laili(TI22250033)
+
 #Nama: amelia yulviana putri(TI22250005)
+
+
 
 from collections import deque
 
